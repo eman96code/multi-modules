@@ -1,0 +1,15 @@
+.container {
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 30px;
+  img {
+    width: 50%;
+    height: 40%;
+  }
+
+  .content {
+    width: 50%;
+  }
+}
